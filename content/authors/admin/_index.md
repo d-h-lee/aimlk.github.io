@@ -18,7 +18,7 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bridging artificial intelligence and mathematics, in both directions.
+bio: Connecting artificial intelligence and mathematics, in both directions.
 
 interests:
   - Artificial Intelligence
@@ -82,6 +82,7 @@ I have been leading AIML@K since 2021, with the goal of educating future leaders
 
 <!-- 연구분야/주제 관심사 소개 -->
 My personal research themes include learning to make wise decisions under uncertainty, efficiency of machine learning algorithms, explainable and verifiable artificial intelligence. 
+I believe that research with solid ties to real applications and practical impact is as important as research in abstract setting that maximizes generalizability.
 
 <!-- 그 외의 것/trivia -->
 My Ph.D. started in 2009 and ended in 2019: in the midst of my Ph.D. decade I also worked as a (senior) software engineer at Samsung Electronics. Meanwhile, I have been putting efforts into public outreaches regarding significant events and impactful findings in my field of research and interest, such as "Dissecting AlphaGo" (알파고 해부하기) series. 
